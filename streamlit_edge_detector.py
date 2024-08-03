@@ -1,8 +1,8 @@
 # Import stuff
 import cv2
-from matplotlib import pyplot as plt
+# from matplotlib import pyplot as plt
 # %matplotlib inline
-plt.rcParams['image.cmap']='gray'
+# plt.rcParams['image.cmap']='gray'
 import streamlit as st
 import numpy as np
 
